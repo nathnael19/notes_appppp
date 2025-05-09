@@ -7,7 +7,7 @@ A minimal, lightweight, and offline-first notes app built using **Flutter** and 
 - 📌 Create, update, and delete notes
 - 📱 Beautiful and responsive UI
 - 💾 Offline-first with local data storage using Hive
-- 🔐 Secure app lock (optional)
+- 🔐 Secure app lock
 - 🧠 Smooth note editing experience with full-screen editor
 - 🔁 Future support for Firebase sync (planned)
 
